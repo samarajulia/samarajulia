@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">recém graduada em análise e desenvolvimento de sistemas</h4>
+<h4 align="center">recém-formada em análise e desenvolvimento de sistemas</h4>
 
 ###
 
