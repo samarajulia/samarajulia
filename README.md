@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="90" src="https://i.imgur.com/PHti39N.png"  />
-</div>
-
-###
-
 <img align="left" height="310" src="https://64.media.tumblr.com/95129227652f760d39c83e34ec87c31e/c70d36b20a8840e3-47/s500x750/dcb2949b2e416706cc5db544e275a1792bd72caa.pnj"  />
 
 ###
@@ -54,12 +48,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarajulia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true&order=2&custom_title=linguagens%20usadas%20recentemente" height="160" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="90" src="https://i.imgur.com/gxAGbJe.png"  />
 </div>
 
 ###
