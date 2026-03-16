@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="60" src="https://64.media.tumblr.com/428ea9a5f6db371d10175cdbc2e38237/b9f133d1ca353af4-1e/s2048x3072/9c695826b9b832d60e1d75b1185ce39e8df7f91a.pnj"  />
+  <img height="90" src="https://i.imgur.com/PHti39N.png"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img height="60" src="https://64.media.tumblr.com/9e21422d8b25c2c0b29cebc1a2af7a6e/b9f133d1ca353af4-27/s2048x3072/5678f1b3458c900ffe39a00ab26cd2e98c5d72ab.pnj"  />
+  <img height="90" src="https://i.imgur.com/gxAGbJe.png"  />
 </div>
 
 ###
