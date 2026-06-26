@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h2 align="center">୨  linguagens e tecnologias ୧</h2>
+<h2 align="center">  linguagens e tecnologias </h2>
 
 ###
 
