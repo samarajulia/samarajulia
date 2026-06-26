@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">୨  desenvolvedora front-end júnior ୧</h1>
+<h1 align="center">  desenvolvedora front-end júnior </h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">atualmente estou :</h3>
+<h3 align="left">atualmente estou:</h3>
 
 ###
 
