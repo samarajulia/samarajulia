@@ -46,8 +46,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarajulia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true&order=2&custom_title=linguagens%20usadas%20recentemente" height="160" alt="languages graph"  />
-</div>
-
 ###
